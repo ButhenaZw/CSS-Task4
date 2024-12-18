@@ -1,0 +1,25 @@
+.main{
+
+    display: grid;
+    grid-template-columns: repeat(4,200px);
+    height: 200px;
+    gap: 10px 10px;
+    
+
+
+
+    
+}
+.main div{
+    background-color: rgb(138, 27, 45);
+    padding: 15px; 
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
